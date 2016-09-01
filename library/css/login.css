@@ -61,5 +61,5 @@ retina login logo
 */
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   .login h1 a {
-    background: url(../images/login-logo@2x.png) no-repeat top center;
+    background: url(../images/tlg-logo-grey.svg) no-repeat top center;
     /* make sure to replace this! */ } }
