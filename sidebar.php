@@ -1,7 +1,7 @@
 				<div id="sidebar1" class="sidebar m-all t-1of3 d-2of7 last-col cf" role="complementary">
 					<div class="widget widget_about">
-						<img src="<?php echo get_template_directory_uri(); ?>/library/images/avatar-cristina@2x.png" alt="Hi, I'm Cristina!" class="avatar aligncenter" />
-						<p>I'm Cristina - a full-stack designer, blogger, wannabe interior designer, and lover of geeky things! Here I share my design projects, inspirations, ideas, and life inside (and outside) my home.</p>
+						<img src="<?php the_field('profile_picture', 'option'); ?>" alt="Hi, I'm Cristina!" class="avatar aligncenter" />
+						<p><?php the_field('intro_text', 'option'); ?></p>
 					</div>
 					<p class="widget-cta"><a href="<?php echo home_url(); ?>/about">Learn More</a></p>				
 				
@@ -37,7 +37,7 @@
 						
 						
 						<!-- category -->
-						<?php wp_dropdown_categories( 'show_option_none=Select category' ); ?>
+						<?php wp_dropdown_categories( 'show_option_none=SELECT CATEGORY' ); ?>
 							<script type="text/javascript">
 								<!--
 								var dropdown = document.getElementById("cat");
@@ -52,7 +52,7 @@
 						
 						<!-- month -->
 						<select name="archive-dropdown" onchange="document.location.href=this.options[this.selectedIndex].value;">
-							<option value=""><?php echo esc_attr( __( 'Select Month' ) ); ?></option> 
+							<option value=""><?php echo esc_attr( __( 'SELECT MONTH' ) ); ?></option> 
 							<?php wp_get_archives( array( 'type' => 'monthly', 'format' => 'option', 'show_post_count' => 1 ) ); ?>
 						</select>
 					</div>

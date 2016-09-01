@@ -78,6 +78,7 @@ add_image_size( 'bones-thumb-300', 300, 100, true );
 add_image_size(	'feat-card-img' , 695, 400, true );
 add_image_size( 'gallery-200' , 200, 200, true );
 add_image_size('featured_preview', 55, 55, true);
+add_image_size('studio-feature', 1000, 420, true);
 
 /*
 to add more sizes, simply copy a line from above
@@ -337,6 +338,14 @@ function bones_register_sidebars() {
 	*/
 } // don't remove this bracket!
 
+/************* ACF THEME OPTIONS PAGE *********************/
+
+
+if( function_exists('acf_add_options_page') ) {
+
+	acf_add_options_page();
+	
+}
 
 /************* COMMENT LAYOUT *********************/
 

@@ -1245,7 +1245,6 @@ select {
   background-repeat: no-repeat;
   background-position: 97.5% center;
   font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  text-transform: uppercase;
   color: #3CA8B2; }
   select option:checked {
     text-transform: capitalize; }

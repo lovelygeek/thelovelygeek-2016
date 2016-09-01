@@ -11,7 +11,12 @@
 							<article id="post-<?php the_ID(); ?>" <?php post_class( 'cf' ); ?> role="article" itemscope itemtype="http://schema.org/BlogPosting">
 
 								<header class="article-header">
-
+									<?php if ( has_post_thumbnail() ) {
+									the_post_thumbnail( 'feat-card-img' );
+									} else { ?>
+									<img src="<?php bloginfo('template_directory'); ?>/library/images/no-feat-img.jpg" alt="<?php the_title(); ?>" />
+									<?php } ?>	
+									
 									<h1 class="page-title" itemprop="headline"><?php the_title(); ?></h1>
 
 								</header> <?php // end article header ?>

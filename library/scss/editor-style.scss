@@ -1,6 +1,6 @@
 /******************************************************************
-Site Name:
-Author:
+Site Name: The Lovely Geek 2016
+Author: Cristina Robinson
 
 Stylesheet: TinyMCE Editor
 
@@ -32,7 +32,7 @@ body#tinymce.wp-editor {
 	@import "partials/mixins";
 
 	width: 731px;
-	font-family: $lato;
+	font-family: $jubilat;
 	font-size: 100%;
 	line-height: 1.5;
 	color: $text-color;
@@ -74,30 +74,43 @@ body#tinymce.wp-editor {
 	}
 
 	h1, .h1 {
-		font-size: 2.5em;
+		font-family: $brandon;
+		font-size: 2em;
 		line-height: 1.333em;
+		text-transform:uppercase;
+		color:$dark-turq;
 	}
 
 	h2, .h2 {
+		font-family: $brandon;
 		font-size: 1.75em;
-		line-height: 1.4em;
+		line-height: 1.1em;
 		margin-bottom: 0.375em;
+		text-transform:uppercase;
+		color:$light-turq;
 	}
 
 	h3, .h3 {
-		font-size: 1.125em;
+		font-family:$jubilat;
+		font-size: 1.375em;
+		color: $main-turq;
 	}
 
 	h4, .h4 {
-		font-size: 1.1em;
+		font-family: $brandon;
+		font-size: 1.250em;
 		font-weight: 700;
+		text-transform:uppercase;
+		color:$dark-turq;
 	}
 
 	h5, .h5 {
+		font-family:$jubilat;
 		font-size: 0.846em;
 		line-height: 2.09em;
 		text-transform: uppercase;
 		letter-spacing: 2px;
+		color:$dark-turq;
 	}
 
 	padding: 1.5em 1.5em 0;
@@ -113,17 +126,19 @@ body#tinymce.wp-editor {
 
 			caption {
 				margin: 0 0 7px;
-				font-size: 0.75em;
-				color: $meta-gray;
+				font-size: 1.75em;
+				color: $main-turq;
+				font-family:$brandon;
 				text-transform: uppercase;
-				letter-spacing: 1px;
+				
 			}
 		}
 
 		tr {
 			border-bottom: 1px solid $gray;
+
 			&:nth-child(even) {
-				background-color: $light-gray;
+				
 			}
 		}
 
@@ -137,9 +152,10 @@ body#tinymce.wp-editor {
 		}
 
 		th {
-			background-color: $light-gray;
-			border-bottom: 1px solid $gray;
-			border-right: 1px solid $gray;
+			background-color: $main-turq;
+			color:$white;
+			font-family: $brandon;
+			text-transform:uppercase;
 
 			&:last-child {
 				border-right: 0;
@@ -147,13 +163,22 @@ body#tinymce.wp-editor {
 		}
 
 		blockquote {
-			margin: 0 0 1.5em 0.75em;
+			margin: 0 0 1.5em 1.75em;
 			padding: 0 0 0 0.75em;
-			border-left: 3px solid $blue;
 			font-style: italic;
 			color: $meta-gray;
+			font-size:112.5%;
+			position: relative;
 
-			&:before {}
+			&:before {
+				display: block;
+				content: "\201C";
+				font-size: 4.5em;
+				position: absolute;
+				left: -30px;
+				top: -34px;
+				color: $main-turq;
+			}
 
 		}
 
@@ -187,6 +212,64 @@ body#tinymce.wp-editor {
 			margin: 0 0 1.5em;
 			border-radius: 3px;
 		}
+
+		ul, ol {
+				
+				margin: 0 0 1.5em 1.75em;
+
+				li {padding:0.25em 0;}
+
+			}
+
+			ul { 	
+
+				li {
+					background-image: url(../images/bullet.svg);
+					background-repeat: no-repeat;
+					background-position: 0 8px;
+					padding:3px 30px
+					}
+					
+			}		
+		
+		ol { 
+			
+			list-style-type: none;
+			
+			margin: 0;
+			margin-left: 3em;
+			padding: 0;
+			counter-reset: li-counter;
+
+			li {
+				position: relative;
+				margin-bottom: 5px;
+				padding-left: 0.5em;
+				min-height: 0.5em;
+				
+				
+				&:before {
+				    position: absolute;
+				    top: 0.2em;
+				    left: -2em;
+				    width: 1em;
+				    height: 1em;
+				     
+				    font-size: 1em;
+				    line-height: 1;
+				    font-weight: 500;
+				    text-align: center;
+				    color:$white;
+				    background-color:$main-turq;
+				    border-radius:50%;
+				    padding:5px;
+				 
+				    content: counter(li-counter);
+				    counter-increment: li-counter;						
+				}
+			}
+
+			}
 
 		/*********************
 		LARGER MOBILE DEVICES

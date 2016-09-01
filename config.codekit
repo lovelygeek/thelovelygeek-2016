@@ -193,7 +193,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 40790,
+		"initialSize": 0,
 		"inputAbbreviatedPath": "\/library\/images\/avatar-cristina.png",
 		"outputAbbreviatedPath": "\/library\/images\/avatar-cristina.png",
 		"outputPathIsOutsideProject": 0,
@@ -204,7 +204,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 130944,
+		"initialSize": 0,
 		"inputAbbreviatedPath": "\/library\/images\/avatar-cristina@2x.png",
 		"outputAbbreviatedPath": "\/library\/images\/avatar-cristina@2x.png",
 		"outputPathIsOutsideProject": 0,
@@ -240,6 +240,17 @@
 		"initialSize": 128064,
 		"inputAbbreviatedPath": "\/library\/images\/favorite-things.png",
 		"outputAbbreviatedPath": "\/library\/images\/favorite-things.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/library\/images\/gvcc-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4273,
+		"inputAbbreviatedPath": "\/library\/images\/gvcc-logo.png",
+		"outputAbbreviatedPath": "\/library\/images\/gvcc-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -292,7 +303,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 35462,
+		"initialSize": 0,
 		"inputAbbreviatedPath": "\/library\/images\/week-in-review.png",
 		"outputAbbreviatedPath": "\/library\/images\/week-in-review.png",
 		"outputPathIsOutsideProject": 0,
@@ -303,7 +314,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8048,
+		"initialSize": 0,
 		"inputAbbreviatedPath": "\/library\/images\/win8-tile-icon.png",
 		"outputAbbreviatedPath": "\/library\/images\/win8-tile-icon.png",
 		"outputPathIsOutsideProject": 0,
@@ -763,6 +774,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/page-studio.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/page-studio.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/page-whos-who.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -896,7 +916,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 450767,
+		"initialSize": 321883,
 		"inputAbbreviatedPath": "\/screenshot.png",
 		"outputAbbreviatedPath": "\/screenshot.png",
 		"outputPathIsOutsideProject": 0,
@@ -992,7 +1012,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "tlg-2016-mamp",
+	"displayValue": "tlg-2016-remote",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "harddrive_blue"
 	},

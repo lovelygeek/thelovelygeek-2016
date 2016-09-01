@@ -4,10 +4,10 @@
 
 				<div class="m-all t-1of3 d-1of3 dribbble_shot">
 					<h4>What I'm Working On</h4>
-					<a href="https://dribbble.com/LovelyGeek" title="@LovelyGeek on dribbble" target="_blank"><img src="https://d13yacurqjgara.cloudfront.net/users/71958/screenshots/2840476/nannyme-dribbble.png" alt="@LovelyGeek on dribbble" /></a>
+					<a href="https://dribbble.com/LovelyGeek" title="@LovelyGeek on dribbble" target="_blank"><img src="<?php the_field('dribbble_screenshot', 'option'); ?>" alt="@LovelyGeek on dribbble" /></a>
 					<p>
-						<img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-dribbble-color.svg" alt="@LovelyGeek on dribbble" class="icon" />
-						<a href="https://dribbble.com/LovelyGeek" target="_blank">@LovelyGeek on dribbble</a>
+						<i class="fa fa-dribbble fa-lg" aria-hidden="true"></i>
+						<a href="https://dribbble.com/LovelyGeek" target="_blank">LovelyGeek on dribbble</a>
 					</p>
 				</div> 
 								
@@ -15,8 +15,8 @@
 					<h4>Lovely Grams</h4>
 					<?php echo do_shortcode('[jr_instagram id="2"]'); ?>
 					<p>
-						<img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-instagram-color.svg" alt="@TheLovelyGeek on Instagram" class="icon" />
-						<a href="https://www.instagram.com/thelovelygeek/" target="_blank">@TheLovelyGeek on Instagram</a>
+						<i class="fa fa-instagram fa-lg" aria-hidden="true"></i>
+						<a href="https://www.instagram.com/thelovelygeek/" target="_blank">TheLovelyGeek on Instagram</a>
 					</p>
 				</div>
 					
