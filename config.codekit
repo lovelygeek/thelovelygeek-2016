@@ -189,17 +189,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/library\/images\/avatar-cristina.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/library\/images\/avatar-cristina.png",
-		"outputAbbreviatedPath": "\/library\/images\/avatar-cristina.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/library\/images\/avatar-cristina@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,

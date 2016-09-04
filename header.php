@@ -67,6 +67,7 @@
 							<a href="http://instagram.com/thelovelygeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-instagram.svg" alt="instagram" /></a>
 							<a href="http://www.pinterest.com/lovelygeek/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-pinterest.svg" alt="pinterest" /></a>
 							<a href="https://www.flickr.com/photos/darth_cena/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-flickr.svg" alt="flickr" /></a>
+							<a href="https://www.youtube.com/user/TheLovelyGeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-youtube.svg" alt="youtube" /></a>
 							<a href="http://feeds.feedburner.com/thelovelygeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-rss.svg" alt="rss" /></a>
 						</div>	
 					</div>					

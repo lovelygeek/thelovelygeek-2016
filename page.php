@@ -46,6 +46,18 @@
 										) );
 									?>
 									
+									<?php /* Only displays on the specific 'NEW READER' page. */ if (is_page('new-reader')) { ?> 
+										<?php if( have_rows('social_media_links', 'option') ): ?>
+									
+										    <?php while( have_rows('social_media_links', 'option') ): the_row(); ?>
+										
+										        <a href="<?php the_sub_field('profile_link'); ?>"><i class="fa <?php the_sub_field('social_icon'); ?> fa-2x" style="color:<?php the_sub_field('icon_color'); ?>;"></i></a>&nbsp;&nbsp;
+										
+										    <?php endwhile; ?>
+									
+										<?php endif; ?>
+									<?php } ?>
+									
 								</section> <?php // end article section ?>
 
 								<footer class="article-footer cf">
