@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-flickr</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16.5" cy="16.5" r="16.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33" height="33" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-white-outline" transform="translate(-172.000000, 0.000000)">
+            <g id="icon-flickr" transform="translate(172.000000, 0.000000)">
+                <use id="Oval-Copy" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                <g id="flickr" transform="translate(6.000000, 12.000000)" fill="#FFFFFF">
+                    <circle id="Oval-2" cx="4.5" cy="4.5" r="4.5"></circle>
+                    <circle id="Oval-2-Copy" cx="16.5" cy="4.5" r="4.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

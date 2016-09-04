@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16.5" cy="16.5" r="16.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33" height="33" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="social-white-outline">
+            <g id="icon-facebook">
+                <use id="Oval-Copy-5" stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                <g id="facebook-f" transform="translate(10.000000, 6.000000)" fill="#FFFFFF">
+                    <path d="M11.291016,0.455818759 L11.291016,3.6562499 L9.31975425,3.6562499 C8.5998885,3.6562499 8.114397,3.80172414 7.86328125,4.09267262 C7.6121655,4.38362038 7.48660725,4.8200431 7.48660725,5.40193934 L7.48660725,7.69315738 L11.1654577,7.69315738 L10.6757812,11.2815193 L7.48660725,11.2815193 L7.48660725,20.4827584 L3.64453125,20.4827584 L3.64453125,11.2815193 L0.4428015,11.2815193 L0.4428015,7.69315738 L3.64453125,7.69315738 L3.64453125,5.0503769 C3.64453125,3.54714476 4.079799,2.38133048 4.9503345,1.55293624 C5.82087075,0.724542 6.98019,0.310344517 8.42829225,0.310344517 C9.658761,0.310344517 10.6130025,0.358836414 11.291016,0.455818759 L11.291016,0.455818759 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -62,13 +62,12 @@
 						</div>
 						
 						<div class="m-all t-1of3 d-2of7 last-col cf social">
-							<a href="https://www.facebook.com/lovelygeek/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/facebook.svg" alt="facebook" /></a>
-							<a href="http://twitter.com/LovelyGeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/twitter.svg" alt="twitter" /></a>
-							<a href="http://instagram.com/thelovelygeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/instagram.svg" alt="instagram" /></a>
-							<a href="https://www.youtube.com/user/TheLovelyGeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/youtube.svg" alt="youtube" /></a>
-							<a href="http://www.pinterest.com/lovelygeek/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/pinterest.svg" alt="pinterest" /></a>
-							<a href="https://www.flickr.com/photos/darth_cena/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/flickr.svg" alt="flickr" /></a>
-							<a href="http://feeds.feedburner.com/thelovelygeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/rss.svg" alt="rss" /></a>
+							<a href="https://www.facebook.com/lovelygeek/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-facebook.svg" alt="facebook" /></a>
+							<a href="http://twitter.com/LovelyGeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-twitter.svg" alt="twitter" /></a>
+							<a href="http://instagram.com/thelovelygeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-instagram.svg" alt="instagram" /></a>
+							<a href="http://www.pinterest.com/lovelygeek/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-pinterest.svg" alt="pinterest" /></a>
+							<a href="https://www.flickr.com/photos/darth_cena/" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-flickr.svg" alt="flickr" /></a>
+							<a href="http://feeds.feedburner.com/thelovelygeek" target="_blank"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-rss.svg" alt="rss" /></a>
 						</div>	
 					</div>					
 
