@@ -9,7 +9,7 @@
 						<p style="text-align:center;"><img src="<?php echo get_template_directory_uri(); ?>/library/images/icon-envelope.svg" alt="subscribe" /></p>
 						<h4 class="widgettitle">Subscribe</h4>
 						Get my latest posts delivered straight to your inbox. Enter your email below.
-						<?php echo do_shortcode('[gravityform id="3" title="false" description="false"]'); ?>
+						<?php echo do_shortcode('[gravityform id="3" title="false" description="false" ajax="true"]'); ?>
 					</div>				
 				
 					<div class="widget">
