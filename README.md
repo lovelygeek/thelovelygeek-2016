@@ -1,4 +1,7 @@
-# Bones
+# The Lovely Geek
+Theme build for <a href="http://thelovelygeek.com">The Lovely Geek</a> based on the Bones development theme.
+
+## Bones
 A Lightweight Wordpress Development Theme
 
 Bones is designed to make the life of developers easier. It's built
