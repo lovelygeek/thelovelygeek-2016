@@ -61,6 +61,7 @@ textarea,
     background-color: lighten($gray, 4%);
     outline: none; 
   } // end hover or focus
+  
 
   // error notification
   &.error,
@@ -96,6 +97,7 @@ textarea,
     &:focus,
     &:active {
       background-color: $alert-blue;
+      
     } // end disabled focus
 
   } // end disabled input
@@ -174,4 +176,10 @@ border:none;
     max-width:50px;
 }
 
-#gform_wrapper_3 {margin:-20px 0;}	
+#gform_wrapper_3 {margin:-20px 0;}
+
+
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; } /* Firefox 18- */
+input:focus::-moz-placeholder { color:transparent; } /* Firefox 19+ */
+input:focus:-ms-input-placeholder { color:transparent; } /* oldIE */
