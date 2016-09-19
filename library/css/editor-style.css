@@ -589,13 +589,13 @@ body#tinymce.wp-editor {
     body#tinymce.wp-editor h1 a, body#tinymce.wp-editor .h1 a, body#tinymce.wp-editor h2 a, body#tinymce.wp-editor .h2 a, body#tinymce.wp-editor h3 a, body#tinymce.wp-editor .h3 a, body#tinymce.wp-editor h4 a, body#tinymce.wp-editor .h4 a, body#tinymce.wp-editor h5 a, body#tinymce.wp-editor .h5 a {
       text-decoration: none; }
   body#tinymce.wp-editor h1, body#tinymce.wp-editor .h1 {
-    font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 2em;
     line-height: 1.333em;
     text-transform: uppercase;
     color: #3CA8B2; }
   body#tinymce.wp-editor h2, body#tinymce.wp-editor .h2 {
-    font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.75em;
     line-height: 1.1em;
     margin-bottom: 0.375em;
@@ -606,7 +606,7 @@ body#tinymce.wp-editor {
     font-size: 1.375em;
     color: #80CDD4; }
   body#tinymce.wp-editor h4, body#tinymce.wp-editor .h4 {
-    font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 1.250em;
     font-weight: 700;
     text-transform: uppercase;
@@ -628,7 +628,7 @@ body#tinymce.wp-editor {
       margin: 0 0 7px;
       font-size: 1.75em;
       color: #80CDD4;
-      font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
       text-transform: uppercase; }
   body#tinymce.wp-editor tr {
     border-bottom: 1px solid #eaedf2; }
@@ -640,7 +640,7 @@ body#tinymce.wp-editor {
   body#tinymce.wp-editor th {
     background-color: #80CDD4;
     color: #fff;
-    font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     body#tinymce.wp-editor th:last-child {
       border-right: 0; }

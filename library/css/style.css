@@ -907,7 +907,7 @@ http://www.youtube.com/watch?v=hwdVpKiJzac
 .blue-btn, .pink-btn, .comment-reply-link, #submit {
   display: inline-block;
   position: relative;
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   text-decoration: none;
   color: #fff;
@@ -1244,13 +1244,13 @@ select {
   background-image: url("../images/triangle.svg");
   background-repeat: no-repeat;
   background-position: 97.5% center;
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   color: #3CA8B2; }
   select option:checked {
     text-transform: capitalize; }
 
 button[type="submit"], .gform_wrapper .gform_footer input[type=submit] {
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
   border: 0;
   background-color: #FF7F62;
   color: #fff;
@@ -1458,14 +1458,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
     text-decoration: none; }
 
 h1, .h1 {
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 2em;
   line-height: 1.333em;
   text-transform: uppercase;
   color: #3CA8B2; }
 
 h2, .h2 {
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.75em;
   line-height: 1.1em;
   margin-bottom: 0.375em;
@@ -1478,7 +1478,7 @@ h3, .h3 {
   color: #80CDD4; }
 
 h4, .h4 {
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.250em;
   font-weight: 700;
   text-transform: uppercase;
@@ -1519,7 +1519,7 @@ header nav {
 
 .nav {
   margin: 0;
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   /* end .menu li */
   /* highlight current page */
@@ -1608,7 +1608,7 @@ POSTS & CONTENT STYLES
     .hentry header .header-category {
       position: relative;
       background-color: #3CA8B2;
-      font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
       text-transform: uppercase;
       padding: 5px 15px;
       color: #fff; }
@@ -1718,7 +1718,7 @@ POSTS & CONTENT STYLES
       margin: 0 0 7px;
       font-size: 1.75em;
       color: #80CDD4;
-      font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
       text-transform: uppercase; }
   .entry-content #wp-calendar {
     border-collapse: separate;
@@ -1758,7 +1758,7 @@ POSTS & CONTENT STYLES
   .entry-content th {
     background-color: #80CDD4;
     color: #fff;
-    font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase; }
     .entry-content th:last-child {
       border-right: 0; }
@@ -2104,7 +2104,7 @@ SIDEBARS & ASIDES
 
 p.widget-cta {
   background: #99D7DD;
-  font-family: "brandon-grotesque-n7", "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "brandon-grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 23px;
   padding: 15px;
