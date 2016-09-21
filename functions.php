@@ -348,6 +348,7 @@ if( function_exists('acf_add_options_page') ) {
 }
 
 /************* FIX PW IS EMPTY ERROR IN CHROME *********************/
+/* From https://premium.wpmudev.org/blog/fixing-password-empty-wordpress-chrome-error/ */
 
 add_action("login_form", "kill_wp_attempt_focus_start");
 function kill_wp_attempt_focus_start() {
