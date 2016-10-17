@@ -1787,7 +1787,8 @@ POSTS & CONTENT STYLES
     height: auto; }
   .entry-content hr {
     border-top: 1px solid #80CDD4;
-    border-bottom: 0; }
+    border-bottom: 0;
+    margin: 25px 0; }
   .entry-content .alignleft, .entry-content img.alignleft {
     float: left;
     margin: 0 15px 30px 0; }
