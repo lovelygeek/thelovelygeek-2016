@@ -24,6 +24,7 @@
 								</header>
 
 								<section class="entry-content cf">
+									<p><i class="fa fa-clock-o" aria-hidden="true"></i> <em><?php echo do_shortcode('[rt_reading_time label="Reading Time:" postfix="minutes"]'); ?></em></p>
 									<?php the_excerpt(); ?>
 								</section>
 

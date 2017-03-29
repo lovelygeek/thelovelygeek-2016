@@ -31,6 +31,8 @@
 					</header> <?php // end article header ?>
 
                 <section class="entry-content cf" itemprop="articleBody">
+	                <p><i class="fa fa-clock-o" aria-hidden="true"></i> <em><?php echo do_shortcode('[rt_reading_time label="Reading Time:" postfix="minutes"]'); ?></em></p>
+	                
                   <?php
                     // the content (pretty self explanatory huh)
                     the_content();
