@@ -7,7 +7,7 @@
 		"uuidString": "63491F83-E575-48DE-903A-77AF8F932368"
 		}
 	],
-"creatorBuild": "25704",
+"creatorBuild": "25813",
 "files": {
 	"\/404.php": {
 		"ft": 8192,
@@ -66,11 +66,12 @@
 	"\/favicon.png": {
 		"ft": 32768,
 		"iS": 0,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/footer.php": {
@@ -158,21 +159,23 @@
 	"\/library\/images\/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 8439,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/apple-touch-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/avatar-cristina@2x.png": {
 		"ft": 32768,
 		"iS": 0,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/avatar-cristina@2x.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/bullet.svg": {
@@ -188,51 +191,56 @@
 	"\/library\/images\/custom-post-icon.png": {
 		"ft": 32768,
 		"iS": 462,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/custom-post-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/day-in-the-life.png": {
 		"ft": 32768,
 		"iS": 99148,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/day-in-the-life.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/favicon.png": {
 		"ft": 32768,
 		"iS": 35525,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/favicon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/favorite-things.png": {
 		"ft": 32768,
 		"iS": 128064,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/favorite-things.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/gvcc-logo.png": {
 		"ft": 32768,
 		"iS": 4273,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/gvcc-logo.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/icon-dribbble-color.svg": {
@@ -338,11 +346,12 @@
 	"\/library\/images\/in-my-beauty-bag.png": {
 		"ft": 32768,
 		"iS": 112992,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/in-my-beauty-bag.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/instagram.svg": {
@@ -358,11 +367,12 @@
 	"\/library\/images\/january-cure.png": {
 		"ft": 32768,
 		"iS": 125802,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/january-cure.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/no-feat-img.jpg": {
@@ -371,6 +381,7 @@
 		"oA": 0,
 		"oAP": "\/library\/images\/no-feat-img.jpg",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -423,31 +434,34 @@
 	"\/library\/images\/week-in-review.png": {
 		"ft": 32768,
 		"iS": 0,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/week-in-review.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/win8-tile-icon.png": {
 		"ft": 32768,
 		"iS": 0,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/win8-tile-icon.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/images\/year-in-review.png": {
 		"ft": 32768,
 		"iS": 97342,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/library\/images\/year-in-review.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/library\/js\/libs\/modernizr.custom.min.js": {
@@ -1720,11 +1734,12 @@
 	"\/screenshot.png": {
 		"ft": 32768,
 		"iS": 321883,
-		"l": 1,
 		"oA": 0,
 		"oAP": "\/screenshot.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/search.php": {
@@ -2754,6 +2769,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
@@ -3578,14 +3597,6 @@
 		"orderOutput": 0,
 		"outputStyle": 1
 		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
-		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
@@ -3648,7 +3659,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"enableLossy": 1,
+		"optimizerType": 1,
 		"quality": 100
 		},
 	"languageDefaultsPUG": {
